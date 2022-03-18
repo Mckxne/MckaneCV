@@ -8,7 +8,7 @@
 body {
 	font-family: Source Sans Pro;
 	color: #FFFFFF;
-	background-color: #3B3893;
+	background-color: #000872
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -18,7 +18,7 @@ body {
 }
 
 .resume-main {
-	background-color: #637EDF;
+	background-color: #6663C0;
 }
 
 .resume-aside {
